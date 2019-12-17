@@ -1,5 +1,5 @@
-# FERSat-PCBDesignStandards  
-### FERSat Printed Circuit Board (PCB) Design Mechanical Layer Usage Standard  
+### FERSat-PCBDesignStandards  
+## FERSat Printed Circuit Board (PCB) Design Mechanical Layer Usage Standard  
 #### Mechanical Layers  
 ##### Mechanical 1 - Board Outline
 ##### Mechanical 2 - Board Cutout  
